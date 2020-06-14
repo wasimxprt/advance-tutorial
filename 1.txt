@@ -1,1 +1,42 @@
-added new branch
+1. Rxjs library and its usage in Angular
+2. Design patterns in javascript
+3. CSS floats and grid system
+4. Slice and Splice methods in JavaScript
+5. Merge two arrays
+6. Typescript
+7. CSS reflow
+8. Reconciliation in React
+9. Shadow dom in Angular
+10. Virtual DOM in React
+11. Positions in CSS
+12. Specificity in CSS
+13. CSS combinators
+14. getDerivedstate form props
+15. Access DOM elements in angular
+16. Fragments in react
+17. Pure components in React
+18. Diff between service and factory
+19. Event loop
+20. v8 engine
+21. Asynch and non blocking
+22. Multithreading in nodejs
+23. psedo elements and pseudo classed in CSS
+24. shouldComponent update in React
+25. box-sizing in CSS
+26. Code splitting in React
+27. Shallow rendering in react
+28. Error Boundaries example in React
+29. Error first in node.js
+30. setState and replaceState in React
+31. AV testing
+32. Security aspects in Front end
+33. CSS positions
+34. Flexbox in detail
+35. Promises in detail and difference between promise and observable
+36. Remove duplicate values from array in JavaScript
+37. map function paramaters
+38. useMemo vs useCallback in React
+39. Remove duplicate values from array
+40. Controlled and Uncontrolled components in React
+41. Pure components in React
+42. Content security policy (CSP)

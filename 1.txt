@@ -61,4 +61,4 @@ update(‘child’)
 
 },[])return <div></div>}
 
-49.
+49. useeffect with async await

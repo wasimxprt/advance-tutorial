@@ -40,3 +40,25 @@
 40. Controlled and Uncontrolled components in React
 41. Pure components in React
 42. Content security policy (CSP)
+43. HOC component example with login component
+44. Life cycle methods in react
+45. Redux architecture and use of connect function
+46. useEffect with componentDidMount, componentWillUnmount, componentDidUpdate example
+47. Explain componentWillUnmount with example
+48. Const Root = () => {
+    const update = (type) => {
+	console.log(type)
+}return <Parent update={update} />
+}
+
+Const Parent = ({update}) => {useEffect(() => {
+update(‘parent’)
+
+},[])return <Child update={update} />}
+
+Const Child = () => {useEffect(() => {
+update(‘child’)
+
+},[])return <div></div>}
+
+49.

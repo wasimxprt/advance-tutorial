@@ -62,3 +62,6 @@ update(‘child’)
 },[])return <div></div>}
 
 49. useeffect with async await
+50. Lazy loading in React
+51. Suspense in React
+51. Fragments and Portal in React

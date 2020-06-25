@@ -1,9 +1,13 @@
+***** JavaScript *****
+1. Design patterns in JavaScript
+2. Slice and Splice methods in JavaScript
+3. Merge two arrays
+4. Typescript basics
+5. Closures and its uses
+6. Program to reverse string, program to find if the string is anagram
+
 1. Rxjs library and its usage in Angular
-2. Design patterns in javascript
 3. CSS floats and grid system
-4. Slice and Splice methods in JavaScript
-5. Merge two arrays
-6. Typescript
 7. CSS reflow
 8. Reconciliation in React
 9. Shadow dom in Angular

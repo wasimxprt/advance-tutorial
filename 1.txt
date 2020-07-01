@@ -69,3 +69,57 @@ update(‘child’)
 50. Lazy loading in React
 51. Suspense in React
 51. Fragments and Portal in React
+52. Difference between npm and yarn
+
+***** Database *****
+53. Difference between MySQL and MongoDB
+54. In MySQL storage engines
+55. Difference between MyISAM and InnoDB
+56. Full text search in MySQL
+57. What are indexes and purpose of it
+58. Type of indexes in MySQL
+59. Stored procedures in MySQL
+60. Funtions in MySQL
+61. group_concat in MySQL
+62. Triggers in MySQL
+63. How to take backup of MySQL database
+64. Database replication in MySQL
+65. What kind of indexes are available in MongoDB
+66. Join like queries in MongoDB
+67. Different joins in MySQL with example
+68. Can we create an index on array field in MongoDB
+69. MongoDB query example
+70. Aggregation in MongoDB
+71. Logs in MongoDB
+72. Get query which is time consuming in logs
+73. Records in paging format in Mysql and paramaters in LIMIT
+74. Partition mechanism in MySQL
+75. MariaDB --- diff between mysql and maridb
+76. Normalization in database and its benefits
+
+
+***** React *****
+1. Virtual DOM exaplanation
+2. JSX in React
+3. Difference between elements and components
+4. When to use class components and when to use functional component
+5. Difference between state and props
+6. How to bind methods/events in component
+7. Inline conditional expression
+8. Refs in React and forward refs
+9. What is shadow DOM and how it is different from virtual DOM
+10. What is React fibre
+11. What are controller and uncontrolled components
+12. HOC components
+13. Why we use className in React
+14. Decorators in React
+15. How to enable production mode in react
+
+***** Cloud/Deployment *****
+1. What are the services used in AWS
+2. How to deploy full stack on AWS infra
+3. Docker and how to deploy FE app through docker
+4. How container is designed for FE and BE app
+5. Benefits of using pm2 and how to deploy a node based application
+
+

@@ -5,6 +5,7 @@
 4. Typescript basics
 5. Closures and its uses
 6. Program to reverse string, program to find if the string is anagram
+7. HTTP1/HTTP2
 
 1. Rxjs library and its usage in Angular
 3. CSS floats and grid system
@@ -123,3 +124,5 @@ update(‘child’)
 5. Benefits of using pm2 and how to deploy a node based application
 
 
+Programs
+1. Merge two string arrays remove duplicate and sort

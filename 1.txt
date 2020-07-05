@@ -6,6 +6,7 @@
 5. Closures and its uses
 6. Program to reverse string, program to find if the string is anagram
 7. HTTP1/HTTP2
+8. Event bubbling and event capturing
 
 1. Rxjs library and its usage in Angular
 3. CSS floats and grid system

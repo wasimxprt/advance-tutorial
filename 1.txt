@@ -125,5 +125,10 @@ update(‘child’)
 5. Benefits of using pm2 and how to deploy a node based application
 
 
-Programs
+***** Programs *****
 1. Merge two string arrays remove duplicate and sort
+
+***** API/Web Services *****
+1. Difference between PUT and POST
+2. PATCH example
+

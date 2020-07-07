@@ -116,6 +116,8 @@ update(‘child’)
 13. Why we use className in React
 14. Decorators in React
 15. How to enable production mode in react
+16. setState is called 5 times on button click, how many times the component will be rerendered.
+17. Redux architecture
 
 ***** Cloud/Deployment *****
 1. What are the services used in AWS

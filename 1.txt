@@ -118,6 +118,7 @@ update(‘child’)
 15. How to enable production mode in react
 16. setState is called 5 times on button click, how many times the component will be rerendered.
 17. Redux architecture
+18. Middleware in redux - redux-thunk or redux-saga
 
 ***** Cloud/Deployment *****
 1. What are the services used in AWS

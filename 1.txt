@@ -135,3 +135,9 @@ update(‘child’)
 1. Difference between PUT and POST
 2. PATCH example
 
+*****  *****
+1. Deploy React/Nodejs application on production
+2. Performance and security measures for front end application
+3. Eslint in react application
+4. AWS services used
+

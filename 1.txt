@@ -140,4 +140,7 @@ update(‘child’)
 2. Performance and security measures for front end application
 3. Eslint in react application
 4. AWS services used
+5. Experience of designing hybrid GUI for the applications (Desktop based and Mobile based applications). This will be a plus
+Good to have knowledge of data marshalling/de-marshalling using JSON and XML
+
 

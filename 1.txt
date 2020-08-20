@@ -144,3 +144,10 @@ update(‘child’)
 Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 
 
+1. OAuth specifications
+2. Difference between sharding and replication in MongoDB
+3. CORS issue in angular application
+4. What are microservies
+5. Idderence between monolithic and microservices
+
+

@@ -151,3 +151,18 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 5. Difference between monolithic and microservices
 
 
+1. How to chain promises
+2. How to remove duplicate values from an array
+3. Reverse a string
+4. How to write IE specific css
+5. Advantages of SCSS
+6. HTML5 new features
+7. Mobile first approach
+8. javascript defer async
+9. How to chain promises
+10. Pass a common header for each and every http request in react
+11. Promise.all and Promise.race
+12. Why we need to use bind method in react
+13. How to use es6 functions not working in IE
+14. Test performance of react application
+

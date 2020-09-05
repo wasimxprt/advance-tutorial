@@ -165,4 +165,12 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 12. Why we need to use bind method in react
 13. How to use es6 functions not working in IE
 14. Test performance of react application
+15. await in nodejs
+16. diff between asynch await and Promise
+17. make this.setState asycn
+18. sequence of component lifecycle
+19. re-render a component in react
+20. why to use redux thunk and how it works
+21. lifecycle of redux
+22.pass data from child to parent in react
 

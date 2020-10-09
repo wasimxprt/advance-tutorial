@@ -210,6 +210,7 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 22. setState is called 5 times on button click, how many times the component will be re-rendered
 23. React hooks and basic hooks available
 23. React context API and useEffect hook - how to implement componentWillUnmount in useEffect
+24. Can we re-render component without setState
 
 
 **************************** Redux Concepts **************************
@@ -231,6 +232,15 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 8. Promise.all and Promise.race
 9. What is prototype in JS
 10. What is hoisting? Doea hoisting works with const and let
+11. What is deep and shallow cloning
+12. Difference between const and Object.freeze
 
+
+**************************** ES6 Concepts **************************
+
+1. What are the new features introduced in ES6
+2. What is the arrow function, and how to create it? Advantages
+3. Spread and Rest operator and difference between both.
+4. What is destructuring in ES6
 
 

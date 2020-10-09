@@ -174,3 +174,13 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 21. lifecycle of redux
 22.pass data from child to parent in react
 
+
+*** CSS Concepts ***
+1. Positions in CSS
+2. pseudo elements and pseudo classed in CSS
+3. Flexbox in CSS
+4. How to center an element in using flexbox
+5. box-sizing in CSS
+6. Advantages of SCSS
+
+

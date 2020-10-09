@@ -175,12 +175,62 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 22.pass data from child to parent in react
 
 
-*** CSS Concepts ***
+************************************************************ INTERVIEW CONCEPTS *******************************************************************************
+*************************** CSS Concepts *****************************
 1. Positions in CSS
 2. pseudo elements and pseudo classed in CSS
 3. Flexbox in CSS
 4. How to center an element in using flexbox
 5. box-sizing in CSS
 6. Advantages of SCSS
+7. CSS box-model
+
+**************************** React Concepts **************************
+1. Reconciliation in React
+2. Virtual DOM in React
+3. getDerivedstateFromProps lifecycle method
+4. HOC and its use case 
+5. What are pure components 
+6. Various lifecycle methods in React
+7. Ways to define a react component - class based and functional components
+8. Why we need to import React from 'react' in functional components
+9. Why we use shouldComponentUpdate lifecycle method in React
+10. What is Shallow rendering in react
+11. Is setState sync or async
+12. Error Boundaries example in React
+13. Fragments and Portal in React
+14. What is JSX in React, does browser understands JSX syntax
+15. Difference between state and props
+16. When to use class components and when to use functional component
+17. Difference between state and props
+18. Refs in React and forward refs
+19. What is shadow DOM and how it is different from virtual DOM
+20. What is React fibre
+21. What are controlled and uncontrolled components
+22. setState is called 5 times on button click, how many times the component will be re-rendered
+23. React hooks and basic hooks available
+23. React context API and useEffect hook - how to implement componentWillUnmount in useEffect
+
+
+**************************** Redux Concepts **************************
+1. Redux architecture
+2. Middleware in redux - redux-thunk or redux-saga
+3. Redux architecture and use of connect function
+4. Why should not we update the state directly
+5. What are actions and actionCreators
+
+
+**************************** JavaScript Concepts **************************
+1. Design patterns in JavaScript
+2. Slice and Splice methods in JavaScript
+3. Event delegation (event bubbling and event capturing)
+4. Closures and its uses
+5. What is a Promise and how to chain promises
+6. What is call, apply, bind
+7. Front end securty measures
+8. Promise.all and Promise.race
+9. What is prototype in JS
+10. What is hoisting? Doea hoisting works with const and let
+
 
 

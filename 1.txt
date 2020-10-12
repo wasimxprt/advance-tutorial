@@ -184,8 +184,12 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 5. box-sizing in CSS
 6. Advantages of SCSS
 7. CSS box-model
+8. What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
+9. What's the difference between inline and inline-block?
+10. translate() instead of absolute.
 
 **************************** React Concepts **************************
+props drilling, diff between state and props, 
 1. Reconciliation in React
 2. Virtual DOM in React
 3. getDerivedstateFromProps lifecycle method

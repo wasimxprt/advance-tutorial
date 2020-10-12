@@ -189,7 +189,8 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 10. translate() instead of absolute.
 
 **************************** React Concepts **************************
-props drilling, diff between state and props, 
+--props drilling, --diff between state and props, ---React.memo(), ---Why do we need a key property, ---How to prevent components from re-rendering?
+
 1. Reconciliation in React
 2. Virtual DOM in React
 3. getDerivedstateFromProps lifecycle method
@@ -238,6 +239,7 @@ props drilling, diff between state and props,
 10. What is hoisting? Doea hoisting works with const and let
 11. What is deep and shallow cloning
 12. Difference between const and Object.freeze
+13. What is the difference between cookies and local storage
 
 
 **************************** ES6 Concepts **************************

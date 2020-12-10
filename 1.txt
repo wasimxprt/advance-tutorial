@@ -177,6 +177,7 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 
 ************************************************************ INTERVIEW CONCEPTS *******************************************************************************
 *************************** CSS Concepts *****************************
+css3 new properties, accessibility, HTML5 semantic tags, scss concepts, grid, flexbox system
 1. Positions in CSS
 2. pseudo elements and pseudo classed in CSS
 3. Flexbox in CSS
@@ -190,6 +191,7 @@ Good to have knowledge of data marshalling/de-marshalling using JSON and XML
 
 **************************** React Concepts **************************
 --props drilling, --diff between state and props, ---React.memo(), ---Why do we need a key property, ---How to prevent components from re-rendering?
+Storybook, publishing components
 
 1. Reconciliation in React
 2. Virtual DOM in React
